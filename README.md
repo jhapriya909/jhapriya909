@@ -1,10 +1,17 @@
 👋 Hi, I’m @priya jha
+
 👀 I’m interested in Web Development, Backend Development, and Creative Coding.
+
 🌱 I’m currently learning JavaScript (DOM manipulation, media queries, error handling) and Node.js.
+
 🚀 I’m  Excited to collaborate on impactful projects that make programming concepts accessible through Hinglish!.
+
 📖 Constantly learning & experimenting with JavaScript, Node.js, and responsive designs.
+
 💡 Passionate about building intuitive & efficient applications.
+
 📩 How to reach me: [Email Me] (priyajh7480@gmail.com) or connect with me on [LinkedIn] (www.linkedin.com/in/priya-jha-807185344)
+
 ⚡ Fun fact: I love decoding JavaScript quirks, like type coercion—kind of like puzzles for developers.
 
 
